@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-coding-unilab/static/css/main.e6c13ad2.css",
+    "main.js": "/live-coding-unilab/static/js/main.7d61247c.js",
+    "index.html": "/live-coding-unilab/index.html",
+    "main.e6c13ad2.css.map": "/live-coding-unilab/static/css/main.e6c13ad2.css.map",
+    "main.7d61247c.js.map": "/live-coding-unilab/static/js/main.7d61247c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d61247c.js"
+  ]
+}
